@@ -13,7 +13,7 @@ Some importand information about a release...
 ### :bug:	Bugfixes
  - An bugfix
 
-### :arrows_counterclockwise: Dependency Updates
+### :top: Dependency Updates
  - Dependency update
 
 ## How to update
