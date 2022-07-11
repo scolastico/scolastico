@@ -10,4 +10,4 @@ or also known as scolastico. I am a software developer from Germany and I like o
 [![Framework/Nuxt](https://img.shields.io/badge/framework-Nuxt-informational)](https://nuxtjs.org)
 [![Library/Tailwind.css](https://img.shields.io/badge/library-Tailwind.css-informational)](https://tailwindcss.com)
 
-[![scolastico's GitHub stats](https://github-readme-stats.vercel.app/api?username=scolastico)](https://github.com/anuraghazra/github-readme-stats)
+[![scolastico's GitHub stats](https://github-readme-stats.vercel.app/api?username=scolastico)](#)
