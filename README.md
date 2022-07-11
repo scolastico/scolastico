@@ -1,4 +1,13 @@
-### Hi, I'm Joschua,
-or also called scolastico. I love free open source software and would like to do my part to ensure that there is more of it. At the moment I am mostly working on the Disc0rd.exe project. A bot for the chat platform Discord that aims to replace and centralize most of the other bots. Otherwise you may also know me from other projects.
+### Hi, I am Joschua
+or also known as scolastico. I am a software developer from Germany and I like open source and simplicity. So I hope to have made your life easier with one or the other tool I have worked on.
 
-Among other things, I have written several SpigotMC plugins in my past and have already helped with many other projects. Apart from that, I'm a well-trained system integrator and have already set up one or the other server system.
+[![Language/Kotlin](https://img.shields.io/badge/language-Kotlin-informational)](https://kotlinlang.org)
+[![Language/Java](https://img.shields.io/badge/language-Java-informational)](https://www.java.com)
+[![Language/JavaScript](https://img.shields.io/badge/language-JavaScript-informational)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Language/TypeScript](https://img.shields.io/badge/language-TypeScript-informational)](https://www.typescriptlang.org)
+[![Library/Vue](https://img.shields.io/badge/library-Vue-informational)](https://vuejs.org)
+[![Library/Ktor](https://img.shields.io/badge/library-Ktor-informational)](https://ktor.io)
+[![Framework/Nuxt](https://img.shields.io/badge/framework-Nuxt-informational)](https://nuxtjs.org)
+[![Library/Tailwind.css](https://img.shields.io/badge/library-Tailwind.css-informational)](https://tailwindcss.com)
+
+[![scolastico's GitHub stats](https://github-readme-stats.vercel.app/api?username=scolastico)](https://github.com/anuraghazra/github-readme-stats)
