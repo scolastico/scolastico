@@ -6,7 +6,6 @@ or also known as scolastico. I am a software developer from Germany and I like o
 [![Language/JavaScript](https://img.shields.io/badge/language-JavaScript-informational)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Language/TypeScript](https://img.shields.io/badge/language-TypeScript-informational)](https://www.typescriptlang.org)
 [![Library/Vue](https://img.shields.io/badge/library-Vue-informational)](https://vuejs.org)
-[![Library/Ktor](https://img.shields.io/badge/library-Ktor-informational)](https://ktor.io)
 [![Framework/Nuxt](https://img.shields.io/badge/framework-Nuxt-informational)](https://nuxtjs.org)
 [![Library/Tailwind.css](https://img.shields.io/badge/library-Tailwind.css-informational)](https://tailwindcss.com)
 
